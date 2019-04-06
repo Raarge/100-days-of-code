@@ -566,11 +566,11 @@
 
 ### Day 71:
 
-**Today's Progress**: 
+**Today's Progress**: C# asp.net work refactoring my indirect time application.  It seems I wasn't infomed that on saturdays and sundays sometimes they only work 6 hours instead of 8.  This causes big problems when you are dividing times worked betweene shifts. 
 
-**Thoughts**: 
+**Thoughts**: Sometimes the simplest way is the most effective way as I found out today.
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 71 Tweet](https://twitter.com/Raarge/status/1114346322906234881)
 
 ### Day 72:
 
