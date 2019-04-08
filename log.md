@@ -582,11 +582,11 @@
 
 ### Day 73:
 
-**Today's Progress**: 
+**Today's Progress**: Set up new C# .NET Core MVC app to house several reports from SQL and DB2.  Also worked with IBM.EntityFramework never used that in one of my projects.  Wanted to see if i could get it working.
 
-**Thoughts**: 
+**Thoughts**: It's definately monday,  very slow and bad day.
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 73 Tweet](https://twitter.com/Raarge/status/1115342921857781760)
 
 ### Day 74:
 
