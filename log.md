@@ -574,11 +574,11 @@
 
 ### Day 72:
 
-**Today's Progress**: 
+**Today's Progress**: Working on my Responsive Web Design Certification again after quite a break.  Almost finished with the CSS portion.
 
-**Thoughts**: 
+**Thoughts**: CSS is going much smoother and I learned a few new tricks this evening.
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 72 Tweet](https://twitter.com/Raarge/status/1115076037220687873)
 
 ### Day 73:
 
