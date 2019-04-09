@@ -590,11 +590,11 @@
 
 ### Day 74:
 
-**Today's Progress**: 
+**Today's Progress**: Set up a new project added nuget packages.  Attempting to use the IBM.EntityFramework for Core and DB2.  Did a lot of work today with SQL and DB2 setting up the select statements for the data for the program.
 
-**Thoughts**: 
+**Thoughts**: I've decided that many iterations versus my old habit of perfection is much better for getting customer focused and happy customers.  Keeping it simple for now.  Get it running and iterate, iterate, and if you forget iterate.
 
-**Link(s) to work**:
+**Link(s) to work**: [Tweet Day 74](https://twitter.com/Raarge/status/1115716645102575617)
 
 ### Day 75:
 
