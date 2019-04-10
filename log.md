@@ -598,11 +598,11 @@
 
 ### Day 75:
 
-**Today's Progress**: 
+**Today's Progress**: Worked on some legacy code adding a few new menus and starting a new metrics section.  Additionally spent a lot of time this morning on SQL Queries.  Last night I was working on creating a web scraper to play around with pulling in game specs and then comparing to laptop specs on the fly.  We will see more to follow.
 
-**Thoughts**: 
+**Thoughts**: It's Hump Day! Nothing super exciting today but it was nice and steady paced.  
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 75 Tweet](https://twitter.com/Raarge/status/1116066038670548992)
 
 ### Day 76:
 
