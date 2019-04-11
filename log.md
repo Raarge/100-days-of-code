@@ -606,11 +606,11 @@
 
 ### Day 76:
 
-**Today's Progress**: 
+**Today's Progress**: Completed the queries needed for the code in the new reports mainframe section.  Worked with CSS and made it look much nicer.
 
-**Thoughts**: 
+**Thoughts**: CSS can still be tricky to get right.  I created me a new class test-css-container that only has a border in it.  This is to let me see the size of all my containers on the page.
 
-**Link(s) to work**:
+**Link(s) to work**: [Tweet Day 76](https://twitter.com/Raarge/status/1116438564256960512)
 
 ### Day 77:
 
