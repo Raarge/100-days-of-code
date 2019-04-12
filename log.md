@@ -614,11 +614,11 @@
 
 ### Day 77:
 
-**Today's Progress**: 
+**Today's Progress**: C# ASP.NET all day also using SQL stored proceedures from a new database.  Had some issues early on but was able to sort this all out.  Looking forward to the weekend and hopefully some more work on my new project web scraping. 
 
-**Thoughts**: 
+**Thoughts**: Fridays are Sweet especially at quitting time!!!
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 77 Tweet](https://twitter.com/Raarge/status/1116799030762164224)
 
 ### Day 78:
 
