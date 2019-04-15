@@ -622,11 +622,11 @@
 
 ### Day 78:
 
-**Today's Progress**: 
+**Today's Progress**: Spend a good part of the day sorting out a stored procedure I didn't write.  Managed to figure it out enough to call the stored procedure from c# asp.net and get the data I needed.  Just need to finish calculations tomorrow.
 
-**Thoughts**: 
+**Thoughts**:  It's Monday, does anyone think really on monday?
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 78 Tweet](https://twitter.com/Raarge/status/1117889011803025409)
 
 ### Day 79:
 
