@@ -630,11 +630,11 @@
 
 ### Day 79:
 
-**Today's Progress**: 
+**Today's Progress**: Learned a bit today about manipulating dates better than before.  Lots of C# ASP.NET and SQL Stored procedures today.
 
-**Thoughts**: 
+**Thoughts**: I love it when i get everything together to have the sql server time out on me.  :(
 
-**Link(s) to work**:
+**Link(s) to work**: [Tweet Day 79](https://twitter.com/Raarge/status/1118280499582005248)
 
 ### Day 80:
 
