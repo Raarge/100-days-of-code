@@ -638,11 +638,11 @@
 
 ### Day 80:
 
-**Today's Progress**: 
+**Today's Progress**: All of the stored procedures are getting called classes are built, calculations made and blocks being filled.  On to CSS
 
-**Thoughts**: 
+**Thoughts**: Sometimes you feel like a nut sometimes you don't!
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 80 Tweet](https://twitter.com/Raarge/status/1118597710804705281)
 
 ### Day 
 
