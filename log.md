@@ -644,7 +644,15 @@
 
 **Link(s) to work**: [Day 80 Tweet](https://twitter.com/Raarge/status/1118597710804705281)
 
-### Day 
+### Day 81:
+
+**Today's Progress**: Lots of debugging today.  Had to refactor an algorithm to calculate the numbers of orders due today taking into account any orders not closed in the last week.
+
+**Thoughts**: Looking forward to a long weekend.
+
+**Link(s) to work**: [Day 81 Tweet](https://twitter.com/Raarge/status/1118970790504853504)
+
+### Day 82:
 
 **Today's Progress**: 
 
@@ -652,7 +660,7 @@
 
 **Link(s) to work**:
 
-### Day 
+### Day 83:
 
 **Today's Progress**: 
 
@@ -660,7 +668,7 @@
 
 **Link(s) to work**:
 
-### Day 
+### Day 84:
 
 **Today's Progress**: 
 
@@ -668,15 +676,7 @@
 
 **Link(s) to work**:
 
-### Day 
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**:
-
-### Day 
+### Day 85:
 
 **Today's Progress**: 
 
