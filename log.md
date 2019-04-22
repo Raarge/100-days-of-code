@@ -654,11 +654,11 @@
 
 ### Day 82:
 
-**Today's Progress**: 
+**Today's Progress**:  Reloaded VSCode to use with C# set everything back up and added the addon VSCode Git Graph.  This is a pretty good little application.  I've connected it to github and tried it out on a project just to see what it looks like.  So far I think it's pretty good.  Thanks to @jiggscodes on twitter for turning me on to this.
 
-**Thoughts**: 
+**Thoughts**: Easter weekend and all I've done is work on a paper for my Masters.  At least I have a half a day to relax before going back to work.
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 82 Tweet Mislabled as 83](https://twitter.com/Raarge/status/1120114643933061125)
 
 ### Day 83:
 
