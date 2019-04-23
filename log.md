@@ -662,11 +662,11 @@
 
 ### Day 83:
 
-**Today's Progress**: 
+**Today's Progress**: Lots of refactoring and reading about clean code in Clean Code by Robert "Uncle Bob" Martin.
 
-**Thoughts**: 
+**Thoughts**: None today please :)
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 83 Tweet](https://twitter.com/Raarge/status/1120778646912786432)
 
 ### Day 84:
 
