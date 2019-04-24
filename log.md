@@ -670,11 +670,11 @@
 
 ### Day 84:
 
-**Today's Progress**: 
+**Today's Progress**: Worked in ASP.NET C# again refactoring some old code.  Did a lot of work with SQL and Update queries.  During lunch i spent some time working again on getting to know Microsoft PowerBI.  I'm working with Datasources this time.
 
-**Thoughts**: 
+**Thoughts**: Very interested in playing with Twilio and was thinking about a program to do some web scraping.
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 84 Tweet](https://twitter.com/Raarge/status/1121193579563626496)
 
 ### Day 85:
 
