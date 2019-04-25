@@ -678,11 +678,11 @@
 
 ### Day 85:
 
-**Today's Progress**: 
+**Today's Progress**: I don't know that I would call this progress.  I spent the day more frustrated trying to remember and figure out sql reports to fix a report.  The more of hte day playing with PowerBI making a dashboard and importing data.
 
-**Thoughts**: 
+**Thoughts**: Why was today so long?
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 85 Tweet](https://twitter.com/Raarge/status/1121544600731234304)
 
 ### Day 
 
