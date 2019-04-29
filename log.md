@@ -684,7 +684,15 @@
 
 **Link(s) to work**: [Day 85 Tweet](https://twitter.com/Raarge/status/1121544600731234304)
 
-### Day 
+### Day 86:
+
+**Today's Progress**: Refactored a lot of code.  Started over on my application to measure standard hours versus earned hours for jobs.  It seems i was thinking too low level and needed to start higher and then drill down into my thursdays work.  The code isn't wasted it just won't get used anytime soon.
+
+**Thoughts**: Mondays are ruthless :)
+
+**Link(s) to work**: [Day 86 Tweet](https://twitter.com/Raarge/status/1122977148447408130)
+
+### Day 87:
 
 **Today's Progress**: 
 
@@ -692,7 +700,7 @@
 
 **Link(s) to work**:
 
-### Day 
+### Day 88:
 
 **Today's Progress**: 
 
@@ -700,7 +708,95 @@
 
 **Link(s) to work**:
 
-### Day 
+### Day 89:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 90:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 91:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 92:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 93:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 94:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 95:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 96:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 97:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 98:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 99:
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 100:
 
 **Today's Progress**: 
 
