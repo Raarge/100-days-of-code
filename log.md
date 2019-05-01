@@ -702,11 +702,11 @@
 
 ### Day 88:
 
-**Today's Progress**: 
+**Today's Progress**: Lots of progress working with cookies, gridview and test driven development.    
 
-**Thoughts**: 
+**Thoughts**: I wish it was Friday :P
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 88 Tweet](https://twitter.com/Raarge/status/1123678096350167048)
 
 ### Day 89:
 
