@@ -694,11 +694,11 @@
 
 ### Day 87:
 
-**Today's Progress**: 
+**Today's Progress**: Created new forms, code behind, data connections.
 
 **Thoughts**: 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 87 Tweet](https://twitter.com/Raarge/status/1123395390257213442?s=19)
 
 ### Day 88:
 
