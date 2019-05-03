@@ -710,11 +710,11 @@
 
 ### Day 89:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet
 
 **Thoughts**: 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 89 Tweet](https://github.com/Raarge/301-Days-Of-Code)
 
 ### Day 90:
 
