@@ -718,11 +718,11 @@
 
 ### Day 90:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet
 
 **Thoughts**: 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 90 Tweet](https://twitter.com/Raarge/status/1124453171148001281)
 
 ### Day 91:
 
