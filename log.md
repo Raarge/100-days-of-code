@@ -726,11 +726,11 @@
 
 ### Day 91:
 
-**Today's Progress**: 
+**Today's Progress**: I'm enjoying IBM's Development Suite for DB2 databases.  Making my life a lot easier.
 
 **Thoughts**: 
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 91 Tweet](https://twitter.com/Raarge/status/1125582261741596672)
 
 ### Day 92:
 
