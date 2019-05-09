@@ -742,11 +742,11 @@
 
 ### Day 93:
 
-**Today's Progress**: 
+**Today's Progress**: Very stressful day.  Working on reports between putting out fires and tracking down issues with other software.
 
-**Thoughts**: 
+**Thoughts**: Is it Friday yet?
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 93 Tweet](https://twitter.com/Raarge/status/1126576455683411968)
 
 ### Day 94:
 
