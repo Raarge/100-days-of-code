@@ -734,11 +734,11 @@
 
 ### Day 92:
 
-**Today's Progress**: 
+**Today's Progress**: Lots of DB2 work today trying to get all my queries for hte data I need for the next Metrics applicaiton I'm working on.
 
-**Thoughts**: 
+**Thoughts**: Pizza tastes good!
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 92 Tweet](https://twitter.com/Raarge/status/1126308814632910849)
 
 ### Day 93:
 
