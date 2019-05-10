@@ -750,11 +750,11 @@
 
 ### Day 94:
 
-**Today's Progress**: 
+**Today's Progress**: Rough day but I was able to get in my hours working on DB2 and CSharp.
 
-**Thoughts**: 
+**Thoughts**: Never Say Die.
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 94 Tweet](https://twitter.com/Raarge/status/1126959811025760256)
 
 ### Day 95:
 
