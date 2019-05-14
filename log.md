@@ -758,11 +758,11 @@
 
 ### Day 95:
 
-**Today's Progress**: 
+**Today's Progress**: Finally put the last three days of db2 work in IBM Data Studio to the test in my ASP.NET C# program.  Setting up the page and code behind pluse new entities for it.  Hope to get more accomplished tomorrow on this.  
 
-**Thoughts**: 
+**Thoughts**: Only 5 days to go in Round 1!!!
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 95 Tweet](https://twitter.com/Raarge/status/1128108843412721664)
 
 ### Day 96:
 
