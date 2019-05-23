@@ -782,19 +782,19 @@
 
 ### Day 98:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet
 
-**Thoughts**: 
+**Thoughts**: Getting Close!
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 98 Tweet](https://twitter.com/Raarge/status/1131288264852221952)
 
 ### Day 99:
 
-**Today's Progress**: 
+**Today's Progress**: Worked in csharp asp.net and used the asp:dropdownlist to pull the list data and concatenate it together for the create new ticket for scrap tracking.
 
-**Thoughts**: 
+**Thoughts**: Almost there!
 
-**Link(s) to work**:
+**Link(s) to work**: [Day 99 Tweet](https://twitter.com/Raarge/status/1131651680095887361)
 
 ### Day 100:
 
