@@ -798,8 +798,8 @@
 
 ### Day 100:
 
-**Today's Progress**: 
+**Today's Progress**: See Tweet.  I did not get this updated until well after the day 100.
 
-**Thoughts**: 
+**Thoughts**: Round 1 is finally over!!
 
-**Link(s) to work**:
+**Link(s) to work**: [Tweet Day 100](https://twitter.com/Raarge/status/1133079222497488902)
