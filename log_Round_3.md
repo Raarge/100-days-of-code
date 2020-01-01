@@ -1,8 +1,9 @@
-100 Days Of Code - Log Round 2 - Raarge - aka Darin Campbell
-Day 1
+#100 Days Of Code - Log Round 2 - Raarge - aka Darin Campbell
 
-Today's Progress: 
+**Day 1:** 
 
-Thoughts: Here we go. New start!
+**Today's Progress:** 
 
-Link(s) to work: Day 1 Tweet
+**Thoughts:** Here we go. New start!
+
+**Link(s) to work:** Day 1 Tweet
