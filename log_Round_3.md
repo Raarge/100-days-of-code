@@ -6,4 +6,4 @@
 
 **Thoughts:** Here we go. New start!
 
-**Link(s) to work:** Day 1 Tweet
+**Link(s) to work:** [Day 1 Tweet](https://twitter.com/Raarge/status/1195075795665981442?s=20)
