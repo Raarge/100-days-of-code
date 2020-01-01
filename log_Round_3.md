@@ -1,4 +1,4 @@
-#100 Days Of Code - Log Round 2 - Raarge - aka Darin Campbell
+#100 Days Of Code - Log Round 2 - Raarge - aka Darin Campbell#
 
 **Day 1:** 
 
