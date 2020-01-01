@@ -186,33 +186,37 @@
 
 **Day 31:**
 
-**Today's Progress:** See Tweet
+**Today's Progress:** Created the survey form as part of freecodecamps Reactive Web Design projects.  Using @media and several other things covered in the courses.  Additionally, worked on the Stadia Product Landing Page and submitted both.
 
-**Link to work:** [Day 31 Tweet]()
+**Link to work:** [Day 31 Tweet](https://twitter.com/Raarge/status/1211039861068718080?s=20)
+                  [Survey Form](https://codepen.io/RaargePrograms/pen/XWJaKRv)
+                  [Product Landing Page](https://codepen.io/RaargePrograms/pen/eYmEeqm)
 
 **Day 32:**
 
-**Today's Progress:** See Tweet
+**Today's Progress:** Finished and submitted the Technical Documentation Page to freecodecamp.  Started the portfolio page and was able to make significant progress.
 
-**Link to work:** [Day 32 Tweet]()
+**Link to work:** [Day 32 Tweet](https://twitter.com/Raarge/status/1211521703953784832?s=20)
+                  [Technical Documentation Page](https://codepen.io/RaargePrograms/pen/yLyovKP)
 
 **Day 33:**
 
 **Today's Progress:** See Tweet
 
-**Link to work:** [Day 33 Tweet]()
+**Link to work:** [Day 33 Tweet](https://twitter.com/Raarge/status/1211521703953784832?s=20)
 
 **Day 34:**
 
-**Today's Progress:** See Tweet
+**Today's Progress:** Submitted Portfolio page and claimed my Responsive Web Design Certificate.  Additionally I started on the Javascript Algorithms and Data Sources.
 
-**Link to work:** [Day 34 Tweet]()
+**Link to work:** [Day 34 Tweet](https://twitter.com/Raarge/status/1211847152600801281?s=20)
+                  [Portfolio at codepen](https://codepen.io/RaargePrograms/pen/oNgeqmB)
 
 **Day 35:**
 
-**Today's Progress:** See Tweet
+**Today's Progress:** Working my way through Basic Javascript as part of the Javascript Algorithms and Data Sources.
 
-**Link to work:** [Day 35 Tweet]()
+**Link to work:** [Day 35 Tweet](https://twitter.com/Raarge/status/1212169560121651201?s=20)
 
 **Day 36:**
 
