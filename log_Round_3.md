@@ -157,31 +157,35 @@
 
 **Today's Progress:** See Tweet
 
-**Link to work:** [Day 26 Tweet]()
+**Link to work:** [Day 26 Tweet](https://twitter.com/Raarge/status/1209375808818700288?s=20)
 
 **Day 27:**
 
 **Today's Progress:** See Tweet
 
-**Link to work:** [Day 27 Tweet]()
+**Link to work:** [Day 27 Tweet](https://twitter.com/Raarge/status/1209697508500357121?s=20)
 
 **Day 28:**
 
 **Today's Progress:** See Tweet
 
-**Link to work:** [Day 28 Tweet]()
+**Link to work:** [Day 28 Tweet](https://twitter.com/Raarge/status/1209893804368683009?s=20)
 
 **Day 29:**
 
 **Today's Progress:** See Tweet
 
-**Link to work:** [Day 29 Tweet]()
+**Link to work:** [Day 29 Tweet](https://twitter.com/Raarge/status/1210445949404958720?s=20)
 
 **Day 30:**
 
-**Today's Progress:** See Tweet
+**Today's Progress:** Started the final projects for the Responsive Web Design at free code camp.  Finished up the tribute page using only html and css.
 
-**Link to work:** [Day 30 Tweet]()
+**Link to work:** [Day 30 Tweet](https://twitter.com/Raarge/status/1210674368281534467?s=20)
+                  [Tribute Page at Codepen.io](<iframe height="265" style="width: 100%;" scrolling="no" title="Tribute Page - 5th Batallion 229th Aviation" src="https://codepen.io/RaargePrograms/embed/wvBeObR?height=265&theme-id=default&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/RaargePrograms/pen/wvBeObR'>Tribute Page - 5th Batallion 229th Aviation</a> by William Campbell
+  (<a href='https://codepen.io/RaargePrograms'>@RaargePrograms</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>)
 
 **Day 31:**
 
